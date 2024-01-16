@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello, IST!\n");
+	printf("If Mario, then only Bros!\n");
 	return 0;
 }
